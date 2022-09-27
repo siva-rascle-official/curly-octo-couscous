@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_900456_delete_me_student">x_900456_delete_me_student</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1</number>
+        <prefix>STU</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-27 18:55:25</sys_created_on>
+        <sys_id>d28b150c971611103939318c1253afdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STU</sys_name>
+        <sys_package display_value="Delete me" source="x_900456_delete_me">4fda5d84971611103939318c1253afcb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delete me">4fda5d84971611103939318c1253afcb</sys_scope>
+        <sys_update_name>sys_number_d28b150c971611103939318c1253afdb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-27 18:55:25</sys_updated_on>
+    </sys_number>
+</record_update>

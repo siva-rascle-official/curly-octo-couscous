@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-27 18:55:29</sys_created_on>
+        <sys_id>4f8b550c971611103939318c1253af57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_900456_delete_me_student.x_900456_delete_me.manager</sys_name>
+        <sys_package display_value="Delete me" source="x_900456_delete_me">4fda5d84971611103939318c1253afcb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delete me">4fda5d84971611103939318c1253afcb</sys_scope>
+        <sys_security_acl display_value="x_900456_delete_me_student">8f8b550c971611103939318c1253af54</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4f8b550c971611103939318c1253af57</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-27 18:55:29</sys_updated_on>
+        <sys_user_role display_value="x_900456_delete_me.manager" name="x_900456_delete_me.manager">5f0b59c8971611103939318c1253af99</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
